@@ -56,7 +56,8 @@ a{
 }
 .wrap .swiper-pagination{
 	width: 100%;
-	bottom: -0.2rem;
+	bottom: 0;
+	left: 0;
 }
 .wrap .swiper-pagination .swiper-pagination-bullet {
 	width: 0.22rem;
@@ -79,6 +80,7 @@ a{
 }
 .wrap .load{
 	text-align: center;
+	margin-bottom: 0.4rem
 }
 .wrap .load .Android{
 	width: 3.12rem;
