@@ -23,7 +23,7 @@ a{
 	height: 100%;
 	background: #216ccc;
 	position: relative;
-	padding-top: 0.5rem;
+	
 	display: -webkit-box;
 	-webkit-box-orient:vertical;
 }
@@ -36,6 +36,7 @@ a{
 	height: 1.11rem;
 	margin: 0 auto;
 	background-size: 100% 100%;
+	margin-top: 0.5rem;
 }
 .wrap .box{
 	background: url(../image/1.png) no-repeat center;
