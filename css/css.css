@@ -30,8 +30,8 @@ a{
 }
 .wrap .logo{
 	background: url(../image/logo.png) no-repeat center;
-	width: 3.51rem;
-	height: 0.75rem;
+	width: 3.81rem;
+	height: 0.81rem;
 	margin: 0 auto;
 	background-size: 100% 100%;
 	margin-top: 0.5rem;
@@ -76,7 +76,6 @@ a{
 	font-size: 0.3rem;
 	text-align: center;
 	color: #fff;
-	line-height: 0.6rem
 }
 .wrap .section2{
 	font-size: 0.3rem;
@@ -90,7 +89,7 @@ a{
 .wrap .load .Android{
 	width: 3.12rem;
 	height: 0.76rem;
-	border: 0.01rem solid #fff;
+	border: 1px solid #fff;
 	border-radius: 0.38rem;
 	font-size: 0.3rem;
 	color: #fff;
@@ -101,7 +100,7 @@ a{
 .wrap .load .ios{
 	width: 3.12rem;
 	height: 0.76rem;
-	border: 0.01rem solid #fff;
+	border: 1px solid #fff;
 	border-radius: 0.38rem;
 	font-size: 0.3rem;
 	color: #fff;
