@@ -54,18 +54,17 @@ a{
 	width: 6.08rem;
 	height: 6.08rem;
 }
-.wrap .box .banner .swiper-pagination{
-	left: 0;
-	bottom: 0.2rem;
+.wrap .swiper-pagination{
+	
 	width: 100%;
 	
 }
-.wrap .box .banner .swiper-pagination .swiper-pagination-bullet {
+.wrap .swiper-pagination .swiper-pagination-bullet {
 	width: 0.22rem;
 	height: 0.22rem;
 	margin: 0 0.2rem
 }
-.wrap .box .banner .swiper-pagination .swiper-pagination-bullet-active{
+.wrap .swiper-pagination .swiper-pagination-bullet-active{
 	background: #fff;
 }
 .wrap .section1{
