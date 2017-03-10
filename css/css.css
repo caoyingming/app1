@@ -21,7 +21,7 @@ a{
 	width: 100%;
 	height: 100%;
 	background: #216ccc;
-	position: absolute;
+	
 	padding-top: 1.12rem;
 }
 .wrap .logo{
@@ -56,9 +56,9 @@ a{
 }
 .wrap .swiper-pagination{
 	width: 100%;
-	bottom:-0.4rem;
+	bottom:-0.2rem;
 	left: 0;
-	
+	padding-bottom: 0.5rem;
 }
 .wrap .swiper-pagination .swiper-pagination-bullet {
 	width: 0.22rem;
