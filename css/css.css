@@ -80,7 +80,8 @@ a{
 }
 .wrap .load{
 	text-align: center;
-	margin-bottom: 0.4rem
+	margin-bottom: 0.4rem;
+	padding-bottom: 1rem;
 }
 .wrap .load .Android{
 	width: 3.12rem;
