@@ -63,10 +63,8 @@ a{
 }
 .wrap .swiper-pagination{
 	width: 100%;
-	bottom:0;
-	left: 0;
 	
-	
+	position: static;
 }
 .wrap .swiper-pagination .swiper-pagination-bullet {
 	width: 0.22rem;
