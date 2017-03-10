@@ -11,6 +11,7 @@ html{
 body{
 	width: 100%;
 	height: 100%;
+	background: #216ccc;
 }
 li{
 	list-style: none;
@@ -18,12 +19,7 @@ li{
 a{
 	text-decoration: none;
 }
-.wrap{
-	width: 100%;
-	height: 100%;
-	background: #216ccc;
-	position: relative;
-	
+.wrap{	
 	display: -webkit-box;
 	-webkit-box-orient:vertical;
 }
