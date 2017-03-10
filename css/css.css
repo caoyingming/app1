@@ -61,7 +61,7 @@ a{
 }
 .wrap .swiper-pagination{
 	width: 100%;
-	
+	margin-top: 0.1rem;
 	position: static;
 }
 .wrap .swiper-pagination .swiper-pagination-bullet {
