@@ -1,6 +1,6 @@
 var winW=document.documentElement.clientWidth;
-var desW=1200;
-var scale=1200/100;
+var desW=750;
+var scale=750/100;
 document.documentElement.style.fontSize=winW/scale+"px";
 window.onresize=function(){
     var winW=document.documentElement.clientWidth;
