@@ -30,8 +30,8 @@ a{
 }
 .wrap .logo{
 	background: url(../image/logo.png) no-repeat center;
-	width: 4.51rem;
-	height: 0.96rem;
+	width: 5rem;
+	height: 1.2rem;
 	margin: 0 auto;
 	background-size: 100% 100%;
 	margin-top: 0.5rem;
@@ -39,8 +39,8 @@ a{
 .wrap .box{
 	background: url(../image/1.png) no-repeat center;
 	background-size: 100% 100%;
-	width: 6.42rem;
-	height: 6.34rem;
+	width: 7.42rem;
+	height: 7.34rem;
 	margin: 0 auto;
 }
 .wrap .box .banner{
@@ -56,8 +56,8 @@ a{
 	text-align: center;
 }
 .wrap .box .banner .swiper-container .swiper-slide img{
-	width: 5.08rem;
-	height: 5.08rem;
+	width: 6.08rem;
+	height: 6.08rem;
 }
 .wrap .swiper-pagination{
 	width: 100%;
@@ -72,39 +72,46 @@ a{
 .wrap .swiper-pagination .swiper-pagination-bullet-active{
 	background: #fff;
 }
-.wrap .section1{
-	font-size: 0.36rem;
-	text-align: center;
-	color: #fff;
-}
-.wrap .section2{
-	font-size: 0.36rem;
-	text-align: center;
-	color: #fff;
-}
 .wrap .load{
 	text-align: center;
-	
+	font-size: 0.3rem;
+	margin-top: 0.6rem;
+	padding-left: 0.4rem;
 }
 .wrap .load .Android{
 	width: 3.12rem;
 	height: 0.76rem;
-	border: 0.01rem solid rgba(255,255,255,0.5);
+	border: 1px solid rgba(255,255,255,0.5);
 	border-radius: 0.5rem;
 	font-size: 0.3rem;
 	color: #fff;
-	display: inline-block;
+	margin-right: 0.2rem;
 	text-align: center;
 	line-height: 0.76rem;
+}
+.wrap .load a{
+	float: left;
 }
 .wrap .load .ios{
 	width: 3.12rem;
 	height: 0.76rem;
-	border: 0.01rem solid rgba(255,255,255,0.5);
+	border: 1px solid rgba(255,255,255,0.5);
 	border-radius: 0.5rem;
 	font-size: 0.3rem;
 	color: #fff;
-	display: inline-block;
+	
 	text-align: center;
 	line-height: 0.76rem;
+}
+.down{
+	width: 100%;
+    height: 0.5rem;
+    line-height: 0.5rem;
+    font-size: 0.26rem;
+    background: rgba(0,0,0,.5);
+    color: #ffffff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    text-align: center;
 }
